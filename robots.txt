@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/karl-deisseroth-optogenetics-brain-disorders/sitemap.xml
+Sitemap: https://karl-deisseroth-optogenetics-brain-disorders.vercel.app/sitemap-vercel.xml
+Sitemap: https://karl-deisseroth-optogenetics-brain-disorders.pages.dev/sitemap-cloudflare.xml
